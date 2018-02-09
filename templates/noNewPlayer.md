@@ -1,0 +1,1 @@
+The game already start, you can't add a new player!

@@ -1,0 +1,1 @@
+The player *{{name}}* was deleted from the game!

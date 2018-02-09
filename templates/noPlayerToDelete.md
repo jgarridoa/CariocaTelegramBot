@@ -1,0 +1,1 @@
+The player *{{name}}* was not in the game!

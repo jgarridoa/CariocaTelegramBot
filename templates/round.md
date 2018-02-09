@@ -1,0 +1,1 @@
+The actual round been player is: {{round.get_rounds_display}} 

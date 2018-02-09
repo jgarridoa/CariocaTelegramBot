@@ -1,0 +1,1 @@
+The Score for player *{{ name }}* is *{{ score }}*

@@ -1,0 +1,1 @@
+The player *{{ name }}* is not in the game!

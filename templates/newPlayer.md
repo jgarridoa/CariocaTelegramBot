@@ -1,0 +1,1 @@
+The new player *{{name}}* was added to the game!
